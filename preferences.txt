@@ -1,0 +1,5 @@
+Favourite movie: "Harry potter",
+Favourite series: "Sherlock",
+Favourite food: Chocolate,
+Favourite season: Spring,
+Country-to-visit: Thailand

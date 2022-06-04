@@ -1,0 +1,2 @@
+hard skills: git, Terminal, javascript, Postman
+soft skills: responsiveness, teamwork, time management, critical thinking 
