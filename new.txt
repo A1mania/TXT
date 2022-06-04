@@ -1,0 +1,6 @@
+Name: Packovskaya Anna Victrorovna
+Age: 32
+number of pets: 2
+Future salary: 5000$
+
+
